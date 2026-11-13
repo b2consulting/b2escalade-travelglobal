@@ -1,0 +1,363 @@
+{
+  "sistema": "B2 Escalade",
+  "versao": "1.0.0",
+  "fontes": {
+    "usuarios": {
+      "link": "https://docs.google.com/spreadsheets/d/1TRWuw_0HrRx-gjcKnV_L5FuMqCXBd4xMMdTQmyOjUr0/edit?usp=sharing",
+      "colunas": {
+        "usuario": "usuario",
+        "senha": "senha",
+        "ativo": "ativo"
+      }
+    },
+    "logo": {
+      "link": "https://drive.google.com/file/d/1cktsXZbiLe0ra55RltxDTg2_v6aOEu_h/view?usp=sharing",
+      "local": "assets/logo-travelGlobal.png"
+    },
+    "base_dados": {
+      "link": "https://drive.google.com/drive/folders/1AlPQUe0cUF3h9C4KfZTKGkhnWcg4_b2h?usp=sharing",
+      "padrao_arquivo": "reservas_AAAA-MM.csv",
+      "local_pasta": "data/reservas/",
+      "arquivos_locais": [
+        "reservas_2025-01.csv",
+        "reservas_2025-02.csv",
+        "reservas_2025-03.csv",
+        "reservas_2025-04.csv",
+        "reservas_2025-05.csv",
+        "reservas_2025-06.csv",
+        "reservas_2025-07.csv",
+        "reservas_2025-08.csv",
+        "reservas_2025-09.csv",
+        "reservas_2025-10.csv",
+        "reservas_2025-11.csv",
+        "reservas_2025-12.csv",
+        "reservas_2026-01.csv",
+        "reservas_2026-02.csv",
+        "reservas_2026-03.csv",
+        "reservas_2026-04.csv",
+        "reservas_2026-05.csv",
+        "reservas_2026-06.csv",
+        "reservas_2026-07.csv",
+        "reservas_2026-08.csv",
+        "reservas_2026-09.csv",
+        "reservas_2026-10.csv",
+        "reservas_2026-11.csv"
+      ],
+      "arquivos_drive": {
+        "2021-11": {
+          "arquivo": "reservas_2021-11.csv",
+          "id": "1eL9uiCFTCYXUPZ15wgPji2WHQvSIcKlRTN1UwMO6SX8",
+          "link": "https://docs.google.com/spreadsheets/d/1eL9uiCFTCYXUPZ15wgPji2WHQvSIcKlRTN1UwMO6SX8/edit?usp=sharing"
+        },
+        "2021-12": {
+          "arquivo": "reservas_2021-12.csv",
+          "id": "15CpZAJplzsIcmXdyZAdgZgdN8g-ir0NJZA6-fIS7lQQ",
+          "link": "https://docs.google.com/spreadsheets/d/15CpZAJplzsIcmXdyZAdgZgdN8g-ir0NJZA6-fIS7lQQ/edit?usp=sharing"
+        },
+        "2022-01": {
+          "arquivo": "reservas_2022-01.csv",
+          "id": "1hxeNurMPnBHL4S8sIPC2kKfdlMkmrp81Af8npH7SxLs",
+          "link": "https://docs.google.com/spreadsheets/d/1hxeNurMPnBHL4S8sIPC2kKfdlMkmrp81Af8npH7SxLs/edit?usp=sharing"
+        },
+        "2022-02": {
+          "arquivo": "reservas_2022-02.csv",
+          "id": "1eKoOKJrdHUrY_w5q5xrxsJ0IiW_tEWR2l2WK3Se1YEo",
+          "link": "https://docs.google.com/spreadsheets/d/1eKoOKJrdHUrY_w5q5xrxsJ0IiW_tEWR2l2WK3Se1YEo/edit?usp=sharing"
+        },
+        "2022-03": {
+          "arquivo": "reservas_2022-03.csv",
+          "id": "1xwLl-aZiu1GuAsrlFYd3KKnkjlJDT-kP7GiWnhyVoJ4",
+          "link": "https://docs.google.com/spreadsheets/d/1xwLl-aZiu1GuAsrlFYd3KKnkjlJDT-kP7GiWnhyVoJ4/edit?usp=sharing"
+        },
+        "2022-04": {
+          "arquivo": "reservas_2022-04.csv",
+          "id": "141QQzN3Wq87Hxao6u7uiEMoljg4Lrd1k2zqaOZQvw5Q",
+          "link": "https://docs.google.com/spreadsheets/d/141QQzN3Wq87Hxao6u7uiEMoljg4Lrd1k2zqaOZQvw5Q/edit?usp=sharing"
+        },
+        "2022-05": {
+          "arquivo": "reservas_2022-05.csv",
+          "id": "1BB-JbnIOL2gwXU1nSnRdoUizvzIapJg99Mx55ez-Nqg",
+          "link": "https://docs.google.com/spreadsheets/d/1BB-JbnIOL2gwXU1nSnRdoUizvzIapJg99Mx55ez-Nqg/edit?usp=sharing"
+        },
+        "2022-06": {
+          "arquivo": "reservas_2022-06.csv",
+          "id": "1hVUlX8IpuDA_0GI-sUUtoKKF2p_YsaYYDDN86eF-syI",
+          "link": "https://docs.google.com/spreadsheets/d/1hVUlX8IpuDA_0GI-sUUtoKKF2p_YsaYYDDN86eF-syI/edit?usp=sharing"
+        },
+        "2022-07": {
+          "arquivo": "reservas_2022-07.csv",
+          "id": "1LSkQbbewbvuMuE5g0eMvzU6bzQdoVChmDV-1wk8iwyo",
+          "link": "https://docs.google.com/spreadsheets/d/1LSkQbbewbvuMuE5g0eMvzU6bzQdoVChmDV-1wk8iwyo/edit?usp=sharing"
+        },
+        "2022-08": {
+          "arquivo": "reservas_2022-08.csv",
+          "id": "1kGE4GZ6PI6kQLLTFv3zgaC8RXNfTqxD0Qg9_kI5-8e0",
+          "link": "https://docs.google.com/spreadsheets/d/1kGE4GZ6PI6kQLLTFv3zgaC8RXNfTqxD0Qg9_kI5-8e0/edit?usp=sharing"
+        },
+        "2022-09": {
+          "arquivo": "reservas_2022-09.csv",
+          "id": "1iwGRmJL6TfqtCWlAXtXQLO0-_UsFxCdVSf69d4FMl2U",
+          "link": "https://docs.google.com/spreadsheets/d/1iwGRmJL6TfqtCWlAXtXQLO0-_UsFxCdVSf69d4FMl2U/edit?usp=sharing"
+        },
+        "2022-10": {
+          "arquivo": "reservas_2022-10.csv",
+          "id": "1VsFV9RzlCYfafbRVLG6nxtCXBzQ_MGFMmG4kIaWIiUo",
+          "link": "https://docs.google.com/spreadsheets/d/1VsFV9RzlCYfafbRVLG6nxtCXBzQ_MGFMmG4kIaWIiUo/edit?usp=sharing"
+        },
+        "2022-11": {
+          "arquivo": "reservas_2022-11.csv",
+          "id": "11ZIkKSmcg919Fcq1p6yvtYMjfrYQy_C7MjYbzRD2tBs",
+          "link": "https://docs.google.com/spreadsheets/d/11ZIkKSmcg919Fcq1p6yvtYMjfrYQy_C7MjYbzRD2tBs/edit?usp=sharing"
+        },
+        "2022-12": {
+          "arquivo": "reservas_2022-12.csv",
+          "id": "1ND5dqvcCuqZaczYAkA0pTr6m9fs_KvQiMoXGEJRV0XA",
+          "link": "https://docs.google.com/spreadsheets/d/1ND5dqvcCuqZaczYAkA0pTr6m9fs_KvQiMoXGEJRV0XA/edit?usp=sharing"
+        },
+        "2023-01": {
+          "arquivo": "reservas_2023-01.csv",
+          "id": "1vE5xeKBe4XeW9Bh7v1bge0n8Qcg6JfxPtxcP3456vFM",
+          "link": "https://docs.google.com/spreadsheets/d/1vE5xeKBe4XeW9Bh7v1bge0n8Qcg6JfxPtxcP3456vFM/edit?usp=sharing"
+        },
+        "2023-02": {
+          "arquivo": "reservas_2023-02.csv",
+          "id": "1Onfj8eEt6L07_5SGvPpo7buj3N-4uZa95bggnTCuw88",
+          "link": "https://docs.google.com/spreadsheets/d/1Onfj8eEt6L07_5SGvPpo7buj3N-4uZa95bggnTCuw88/edit?usp=sharing"
+        },
+        "2023-03": {
+          "arquivo": "reservas_2023-03.csv",
+          "id": "1aZdELNTDZLEifApEPWpPWzZDOgWxm6dy8L2XSnHdWnE",
+          "link": "https://docs.google.com/spreadsheets/d/1aZdELNTDZLEifApEPWpPWzZDOgWxm6dy8L2XSnHdWnE/edit?usp=sharing"
+        },
+        "2023-04": {
+          "arquivo": "reservas_2023-04.csv",
+          "id": "1BOwKyChAEKyJYIdPK-OBopQZXsKBjg8SROeHF9kIIRQ",
+          "link": "https://docs.google.com/spreadsheets/d/1BOwKyChAEKyJYIdPK-OBopQZXsKBjg8SROeHF9kIIRQ/edit?usp=sharing"
+        },
+        "2023-05": {
+          "arquivo": "reservas_2023-05.csv",
+          "id": "1RsgsApKRyfwJnFgZl0Ez4ujZ2M2EwPz7LRXTG_SVvuQ",
+          "link": "https://docs.google.com/spreadsheets/d/1RsgsApKRyfwJnFgZl0Ez4ujZ2M2EwPz7LRXTG_SVvuQ/edit?usp=sharing"
+        },
+        "2023-06": {
+          "arquivo": "reservas_2023-06.csv",
+          "id": "1xajPmXUa1fQixjLdUvaq7ddr3JomEKY1ZtNwFfdHgwg",
+          "link": "https://docs.google.com/spreadsheets/d/1xajPmXUa1fQixjLdUvaq7ddr3JomEKY1ZtNwFfdHgwg/edit?usp=sharing"
+        },
+        "2023-07": {
+          "arquivo": "reservas_2023-07.csv",
+          "id": "1CMdEjQ4zT00YspIjXj8QdywTLNP9QkyTn3bZEOrzpTE",
+          "link": "https://docs.google.com/spreadsheets/d/1CMdEjQ4zT00YspIjXj8QdywTLNP9QkyTn3bZEOrzpTE/edit?usp=sharing"
+        },
+        "2023-08": {
+          "arquivo": "reservas_2023-08.csv",
+          "id": "1LsMV7BFogSLySPRJx0MICS4dYt8zPUUyFsYqpvLowd4",
+          "link": "https://docs.google.com/spreadsheets/d/1LsMV7BFogSLySPRJx0MICS4dYt8zPUUyFsYqpvLowd4/edit?usp=sharing"
+        },
+        "2023-09": {
+          "arquivo": "reservas_2023-09.csv",
+          "id": "1oQTZWWM0LWGJqEhiCOkZxgeut9KHOjmuL31T14451jo",
+          "link": "https://docs.google.com/spreadsheets/d/1oQTZWWM0LWGJqEhiCOkZxgeut9KHOjmuL31T14451jo/edit?usp=sharing"
+        },
+        "2023-10": {
+          "arquivo": "reservas_2023-10.csv",
+          "id": "1a7BWAO5VWiBvrkFDGXgzxQCzn072j2BVSeZVyqW-pdU",
+          "link": "https://docs.google.com/spreadsheets/d/1a7BWAO5VWiBvrkFDGXgzxQCzn072j2BVSeZVyqW-pdU/edit?usp=sharing"
+        },
+        "2023-11": {
+          "arquivo": "reservas_2023-11.csv",
+          "id": "10fCccE0TFLshUJuOft90dFwXcECKU0fR6ADmwX6BoGg",
+          "link": "https://docs.google.com/spreadsheets/d/10fCccE0TFLshUJuOft90dFwXcECKU0fR6ADmwX6BoGg/edit?usp=sharing"
+        },
+        "2023-12": {
+          "arquivo": "reservas_2023-12.csv",
+          "id": "1aDXnIWWWLxxSbMVaTD37JnGzrxgRxWmaNQE2E_YBrPY",
+          "link": "https://docs.google.com/spreadsheets/d/1aDXnIWWWLxxSbMVaTD37JnGzrxgRxWmaNQE2E_YBrPY/edit?usp=sharing"
+        },
+        "2024-01": {
+          "arquivo": "reservas_2024-01.csv",
+          "id": "1GSvNMR8apAjLBCCUelL_lVs1-tHpV4rj2UMBe8guOzI",
+          "link": "https://docs.google.com/spreadsheets/d/1GSvNMR8apAjLBCCUelL_lVs1-tHpV4rj2UMBe8guOzI/edit?usp=sharing"
+        },
+        "2024-02": {
+          "arquivo": "reservas_2024-02.csv",
+          "id": "1uFleu7T_xyqCkvXCp4mfOPq655gY9S10sORXmosRwm0",
+          "link": "https://docs.google.com/spreadsheets/d/1uFleu7T_xyqCkvXCp4mfOPq655gY9S10sORXmosRwm0/edit?usp=sharing"
+        },
+        "2024-03": {
+          "arquivo": "reservas_2024-03.csv",
+          "id": "1RalmiA8y2oUjrIrWTrQCdL0I2xlK_ScmoYssHumdGXk",
+          "link": "https://docs.google.com/spreadsheets/d/1RalmiA8y2oUjrIrWTrQCdL0I2xlK_ScmoYssHumdGXk/edit?usp=sharing"
+        },
+        "2024-04": {
+          "arquivo": "reservas_2024-04.csv",
+          "id": "1nqvesfY_x47ZV5o63DVU5JlCFAglGSoE52eZ1DtquyQ",
+          "link": "https://docs.google.com/spreadsheets/d/1nqvesfY_x47ZV5o63DVU5JlCFAglGSoE52eZ1DtquyQ/edit?usp=sharing"
+        },
+        "2024-05": {
+          "arquivo": "reservas_2024-05.csv",
+          "id": "1KTenW5u8oq7jXw8E_bEXuboJ9IlroBNmeM6p8GPY78s",
+          "link": "https://docs.google.com/spreadsheets/d/1KTenW5u8oq7jXw8E_bEXuboJ9IlroBNmeM6p8GPY78s/edit?usp=sharing"
+        },
+        "2024-06": {
+          "arquivo": "reservas_2024-06.csv",
+          "id": "1y9CWvBYLYKwPK6jjiwNYFvzRcGCbeUyRyj-bKc5t71M",
+          "link": "https://docs.google.com/spreadsheets/d/1y9CWvBYLYKwPK6jjiwNYFvzRcGCbeUyRyj-bKc5t71M/edit?usp=sharing"
+        },
+        "2024-07": {
+          "arquivo": "reservas_2024-07.csv",
+          "id": "1gBx8ZY54V-J_H0H7erLozNnXnY8Vto78DivWmDyF2Ww",
+          "link": "https://docs.google.com/spreadsheets/d/1gBx8ZY54V-J_H0H7erLozNnXnY8Vto78DivWmDyF2Ww/edit?usp=sharing"
+        },
+        "2024-08": {
+          "arquivo": "reservas_2024-08.csv",
+          "id": "13mQISAZZ7N5Nsx4Ku2h3e0oEqEWtl3Rd19eZO-ZhzOo",
+          "link": "https://docs.google.com/spreadsheets/d/13mQISAZZ7N5Nsx4Ku2h3e0oEqEWtl3Rd19eZO-ZhzOo/edit?usp=sharing"
+        },
+        "2024-09": {
+          "arquivo": "reservas_2024-09.csv",
+          "id": "1hCpuxsNEGBKQQcAsJdCwPMWwVqTkiobrUmlfE3LTFy8",
+          "link": "https://docs.google.com/spreadsheets/d/1hCpuxsNEGBKQQcAsJdCwPMWwVqTkiobrUmlfE3LTFy8/edit?usp=sharing"
+        },
+        "2024-10": {
+          "arquivo": "reservas_2024-10.csv",
+          "id": "1On3b36fTlSS4BQHqGjpwdBrviV-lu4ueQWE76iY3oo8",
+          "link": "https://docs.google.com/spreadsheets/d/1On3b36fTlSS4BQHqGjpwdBrviV-lu4ueQWE76iY3oo8/edit?usp=sharing"
+        },
+        "2024-11": {
+          "arquivo": "reservas_2024-11.csv",
+          "id": "1FYGV0Rtlmd0RRDpAfB0rFaHfvtntjh12Qh9q_FW_aKA",
+          "link": "https://docs.google.com/spreadsheets/d/1FYGV0Rtlmd0RRDpAfB0rFaHfvtntjh12Qh9q_FW_aKA/edit?usp=sharing"
+        },
+        "2024-12": {
+          "arquivo": "reservas_2024-12.csv",
+          "id": "1OFYqTJlohaO6jdn058C_7gGEJG4JK3Cb5R-uBG3fu7A",
+          "link": "https://docs.google.com/spreadsheets/d/1OFYqTJlohaO6jdn058C_7gGEJG4JK3Cb5R-uBG3fu7A/edit?usp=sharing"
+        },
+        "2025-01": {
+          "arquivo": "reservas_2025-01.csv",
+          "id": "12XkKmiXauiog6L-hG-3Ljoeyc67WdsvDT6F6RhRn2Rw",
+          "link": "https://docs.google.com/spreadsheets/d/12XkKmiXauiog6L-hG-3Ljoeyc67WdsvDT6F6RhRn2Rw/edit?usp=sharing"
+        },
+        "2025-02": {
+          "arquivo": "reservas_2025-02.csv",
+          "id": "1rteQMiwwSTujEcZISB4h0hCUXZg0P1u-JJnPNG4wwF0",
+          "link": "https://docs.google.com/spreadsheets/d/1rteQMiwwSTujEcZISB4h0hCUXZg0P1u-JJnPNG4wwF0/edit?usp=sharing"
+        },
+        "2025-03": {
+          "arquivo": "reservas_2025-03.csv",
+          "id": "16q0n4LGq9fuhpiAqu4T8GWJGi_mbWCNeEmQ02f2sJKg",
+          "link": "https://docs.google.com/spreadsheets/d/16q0n4LGq9fuhpiAqu4T8GWJGi_mbWCNeEmQ02f2sJKg/edit?usp=sharing"
+        },
+        "2025-04": {
+          "arquivo": "reservas_2025-04.csv",
+          "id": "1L0SbNEdGwirij-Yd69bGA-IWhVuZyOFsELohTpYW0Qc",
+          "link": "https://docs.google.com/spreadsheets/d/1L0SbNEdGwirij-Yd69bGA-IWhVuZyOFsELohTpYW0Qc/edit?usp=sharing"
+        },
+        "2025-05": {
+          "arquivo": "reservas_2025-05.csv",
+          "id": "1G1MZMhdpe6zGW1MAHBVQ2ud9_rJX3A_7JHvN7zOPEwk",
+          "link": "https://docs.google.com/spreadsheets/d/1G1MZMhdpe6zGW1MAHBVQ2ud9_rJX3A_7JHvN7zOPEwk/edit?usp=sharing"
+        },
+        "2025-06": {
+          "arquivo": "reservas_2025-06.csv",
+          "id": "13RiR3PszLFw8CqOkHXoMrr6ouvY4q8i9ShMogKryDYY",
+          "link": "https://docs.google.com/spreadsheets/d/13RiR3PszLFw8CqOkHXoMrr6ouvY4q8i9ShMogKryDYY/edit?usp=sharing"
+        },
+        "2025-07": {
+          "arquivo": "reservas_2025-07.csv",
+          "id": "1SZj03I03swwO4eqD5plRGq3o7TZvuNL06ULzxqqVOxQ",
+          "link": "https://docs.google.com/spreadsheets/d/1SZj03I03swwO4eqD5plRGq3o7TZvuNL06ULzxqqVOxQ/edit?usp=sharing"
+        },
+        "2025-08": {
+          "arquivo": "reservas_2025-08.csv",
+          "id": "1JbFmnrst_gXS_IiRiQec9UuTwKiYv9hn5xmgeS1MKF0",
+          "link": "https://docs.google.com/spreadsheets/d/1JbFmnrst_gXS_IiRiQec9UuTwKiYv9hn5xmgeS1MKF0/edit?usp=sharing"
+        },
+        "2025-09": {
+          "arquivo": "reservas_2025-09.csv",
+          "id": "1e2qZxCmbT1ltKvMqVgJtZj-866VNSRHSdYk3-3nE0OE",
+          "link": "https://docs.google.com/spreadsheets/d/1e2qZxCmbT1ltKvMqVgJtZj-866VNSRHSdYk3-3nE0OE/edit?usp=sharing"
+        },
+        "2025-10": {
+          "arquivo": "reservas_2025-10.csv",
+          "id": "1eqGyzxBxb4ttDcDffhQJuL6-RiK2byaxoi0bUiAB3fI",
+          "link": "https://docs.google.com/spreadsheets/d/1eqGyzxBxb4ttDcDffhQJuL6-RiK2byaxoi0bUiAB3fI/edit?usp=sharing"
+        },
+        "2025-11": {
+          "arquivo": "reservas_2025-11.csv",
+          "id": "1lYmQZzvaLYh2UzItppYcZa52zU6kIAf8MYqudco1AjU",
+          "link": "https://docs.google.com/spreadsheets/d/1lYmQZzvaLYh2UzItppYcZa52zU6kIAf8MYqudco1AjU/edit?usp=sharing"
+        },
+        "2025-12": {
+          "arquivo": "reservas_2025-12.csv",
+          "id": "1Y6mpdPgW_eWzvQO3X1MSccswukJvDVIhJq1Q6X5hO8Q",
+          "link": "https://docs.google.com/spreadsheets/d/1Y6mpdPgW_eWzvQO3X1MSccswukJvDVIhJq1Q6X5hO8Q/edit?usp=sharing"
+        },
+        "2026-01": {
+          "arquivo": "reservas_2026-01.csv",
+          "id": "1K8v2zex-rzzFwmIcbrHRFJ5gBD_2f1LfZeTGNjEwc-4",
+          "link": "https://docs.google.com/spreadsheets/d/1K8v2zex-rzzFwmIcbrHRFJ5gBD_2f1LfZeTGNjEwc-4/edit?usp=sharing"
+        },
+        "2026-02": {
+          "arquivo": "reservas_2026-02.csv",
+          "id": "1wCtslTzfDBS5pqh4rik1tbp3mw1Jqb8zXwIty0WrI84",
+          "link": "https://docs.google.com/spreadsheets/d/1wCtslTzfDBS5pqh4rik1tbp3mw1Jqb8zXwIty0WrI84/edit?usp=sharing"
+        },
+        "2026-03": {
+          "arquivo": "reservas_2026-03.csv",
+          "id": "1eScRMOgZn-dIDrKInmldGzW2_4gUtceHylTnoH9i2Ug",
+          "link": "https://docs.google.com/spreadsheets/d/1eScRMOgZn-dIDrKInmldGzW2_4gUtceHylTnoH9i2Ug/edit?usp=sharing"
+        },
+        "2026-04": {
+          "arquivo": "reservas_2026-04.csv",
+          "id": "1maT3H6Q-ta-DEOl9ZDWvMCJnZxbWYuvEUKzZTPu20wg",
+          "link": "https://docs.google.com/spreadsheets/d/1maT3H6Q-ta-DEOl9ZDWvMCJnZxbWYuvEUKzZTPu20wg/edit?usp=sharing"
+        },
+        "2026-05": {
+          "arquivo": "reservas_2026-05.csv",
+          "id": "1V1s63LQIo_sbN66-4EyMViWxpREG2CPor0bPrBqu6II",
+          "link": "https://docs.google.com/spreadsheets/d/1V1s63LQIo_sbN66-4EyMViWxpREG2CPor0bPrBqu6II/edit?usp=sharing"
+        },
+        "2026-06": {
+          "arquivo": "reservas_2026-06.csv",
+          "id": "1lEhsl047teUixg4HHuiUbJF0UrpmI0b69KF0GfkLXx4",
+          "link": "https://docs.google.com/spreadsheets/d/1lEhsl047teUixg4HHuiUbJF0UrpmI0b69KF0GfkLXx4/edit?usp=sharing"
+        },
+        "2026-07": {
+          "arquivo": "reservas_2026-07.csv",
+          "id": "1JnpgHNphFOl9TTRmsMSmGfQDEXeOYq4dRQd1QLdyNpc",
+          "link": "https://docs.google.com/spreadsheets/d/1JnpgHNphFOl9TTRmsMSmGfQDEXeOYq4dRQd1QLdyNpc/edit?usp=sharing"
+        },
+        "2026-08": {
+          "arquivo": "reservas_2026-08.csv",
+          "id": "1wjdmtcdzR-fvd_NOs5XIBDgYHSkk7ZcdZRvRbg-Y7hY",
+          "link": "https://docs.google.com/spreadsheets/d/1wjdmtcdzR-fvd_NOs5XIBDgYHSkk7ZcdZRvRbg-Y7hY/edit?usp=sharing"
+        },
+        "2026-09": {
+          "arquivo": "reservas_2026-09.csv",
+          "id": "17JWYB4hzbndEpTGmGpp0_d2NcAijPfdpBMtAMG9xlIo",
+          "link": "https://docs.google.com/spreadsheets/d/17JWYB4hzbndEpTGmGpp0_d2NcAijPfdpBMtAMG9xlIo/edit?usp=sharing"
+        },
+        "2026-10": {
+          "arquivo": "reservas_2026-10.csv",
+          "id": "1D6wrnqkRxq2YdRcI4yRuBTv_ZozQZNLYWENvM0lptt4",
+          "link": "https://docs.google.com/spreadsheets/d/1D6wrnqkRxq2YdRcI4yRuBTv_ZozQZNLYWENvM0lptt4/edit?usp=sharing"
+        },
+        "2026-11": {
+          "arquivo": "reservas_2026-11.csv",
+          "id": "186fp41qiHEQf7T-UglayVLPjVVOgV7He_VG_1bINbQk",
+          "link": "https://docs.google.com/spreadsheets/d/186fp41qiHEQf7T-UglayVLPjVVOgV7He_VG_1bINbQk/edit?usp=sharing"
+        }
+      },
+      "observacao": "Leitura pelo link (arquivos_drive). local_pasta/arquivos_locais são apenas contingência para testes."
+    }
+  },
+  "googleApiKey": "",
+  "regras": {
+    "ajustes_valor_total": [
+      "COMMISSION_ADJUSTMENT",
+      "RAV_COMMISSION"
+    ]
+  }
+}
